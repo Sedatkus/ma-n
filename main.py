@@ -38,4 +38,19 @@ age= "23"
 company = "Kodlamaio"
 print(f"{name} {age} yaşında {company}'da çalışıyor")
 print(name + " " + age + " " + "yaşında" + " " + company + "'da çalışıyor")
+
+
+######   KODLAMA.iO  Engin Hoca Notlar #########
+mesaj = "Hoşgeldin"
+musteriAdi = "SEDAT"
+musteriSoyadi = "KUŞ"
+# print(mesaj+" "+musteriAdi+" "+musteriSoyadi) (Tırnak içi metinsel ifade olduğu için boşluk bırakmak için)
+sonucMesaj = mesaj + " " + musteriAdi + " " + musteriSoyadi
+
+print(sonucMesaj)
+
+sayi1 = 10 #int
+sayi2 = 20 #int
+print(sayi1+sayi2) # 10 + 20 = 30
+
 print("İlk Gün Ödevi SEDAT KUŞ")
