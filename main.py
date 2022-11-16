@@ -41,6 +41,18 @@ print(name + " " + age + " " + "yaşında" + " " + company + "'da çalışıyor"
 
 
 ######   KODLAMA.iO  Engin Hoca Notlar #########
+baslik = "Haberiniz Olsun" #string metinsel bir ifade 
+vade = 12  # integer sayısal bir ifade
+faizoranı = 1.76 # Float ondalıklı bir ifade
+print(baslik)
+print(type(baslik))
+
+print(vade)
+print(type(vade))
+
+print(faizoranı)
+print(type(faizoranı))
+
 mesaj = "Hoşgeldin"
 musteriAdi = "SEDAT"
 musteriSoyadi = "KUŞ"
